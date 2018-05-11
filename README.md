@@ -1,10 +1,10 @@
-# Project Title
+# NextJS-Routing-Boilerplate
 
-Learning Next JS
+Personal project im creating to Learn Next.js
 
 ## Getting Started
 
-Simple boilerplate to use for next.js future projects
+Use the boilerplate to quickly generate your Next.js projects
 
 ### Prerequisites
 
@@ -14,7 +14,6 @@ simply run npm install or yarn install to get started
 mpm install
 yarn install
 ```
-
 
 ## Built With
 
@@ -27,7 +26,7 @@ Please read [CONTRIBUTING.md](https://github.com/Maccauhuru/NextJS-Routing-Boile
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Please read [README.md](https://github.com/Maccauhuru/NextJS-Routing-Boilerplate)
 
 ## Authors
 
@@ -41,6 +40,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* 
 * Inspiration - Christan Nwamba [@codebeast] - Scotch.io
  
