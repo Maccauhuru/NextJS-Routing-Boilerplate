@@ -1,9 +1,7 @@
 import React from 'react'
 import Link from 'next/link';
 
-
-class About extends React.Component {
-  render() {
+const About =()=> {
     return (
       <React.Fragment>
         <Link href="/index">
@@ -27,7 +25,6 @@ class About extends React.Component {
         < a href = "https://nextjs.org/learn" target="_blank"> Next.js official website < /a>
       </React.Fragment>
     )
-  }
 }
 
 export default About;
